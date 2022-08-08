@@ -10,7 +10,7 @@ input_filename = 'final_raw_de.csv'
 category_raw = 'Web - Page Category2(149)'
 cat_location = 3
 include_word = ['de:']
-remove_word1 = ['brand','offer','CATEGORY','about','cs:','2021',':business:','blog','magazine','cloud','test1','2020','2019','career','microsite','promotion','Charity']
+remove_word = ['brand','offer','CATEGORY','about','cs:','2021',':business:','blog','magazine','cloud','test1','2020','2019','career','microsite','promotion','Charity']
 output_name = 'output.csv'
 
 ###############################################################################
